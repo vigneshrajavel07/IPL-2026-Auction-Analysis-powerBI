@@ -99,7 +99,7 @@ The dashboard is designed with a **business-focused layout** and is suitable for
 ## 📁 Repository Contents
 - `IPL_2026_Auction_Dashboard.pbix` – Power BI report
 - `IPL_2026_Auction_Data.xlsx` – Sample dataset
-- `dashboard.png` – Dashboard preview image
+
 
 ---
 
